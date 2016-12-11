@@ -1,0 +1,6 @@
+C:\Dane\Konrad\studia\ROK3\Semestr1\TO - Technologie Obiektowe C#\Lab1\zadania\ApplePieCooking\ApplePieCooking\bin\Debug\ApplePieCooking.exe.config
+C:\Dane\Konrad\studia\ROK3\Semestr1\TO - Technologie Obiektowe C#\Lab1\zadania\ApplePieCooking\ApplePieCooking\obj\Debug\ApplePieCooking.csprojResolveAssemblyReference.cache
+C:\Dane\Konrad\studia\ROK3\Semestr1\TO - Technologie Obiektowe C#\Lab1\zadania\ApplePieCooking\ApplePieCooking\bin\Debug\ApplePieCooking.exe
+C:\Dane\Konrad\studia\ROK3\Semestr1\TO - Technologie Obiektowe C#\Lab1\zadania\ApplePieCooking\ApplePieCooking\bin\Debug\ApplePieCooking.pdb
+C:\Dane\Konrad\studia\ROK3\Semestr1\TO - Technologie Obiektowe C#\Lab1\zadania\ApplePieCooking\ApplePieCooking\obj\Debug\ApplePieCooking.exe
+C:\Dane\Konrad\studia\ROK3\Semestr1\TO - Technologie Obiektowe C#\Lab1\zadania\ApplePieCooking\ApplePieCooking\obj\Debug\ApplePieCooking.pdb
